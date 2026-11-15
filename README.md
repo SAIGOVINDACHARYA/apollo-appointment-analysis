@@ -161,7 +161,8 @@ Reminders are the strongest lever found in this analysis.
 ## 👤 Author
 
 **Your Name**
-📧 your.email@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+Sai govindacharya
+📧 acharyasaigovinda@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/saigovinda1611) · 💻 [GitHub](https://github.com/SAIGOVINDACHARYA)
 
 ## 📄 License
 
